@@ -1,6 +1,5 @@
 # Intelligent CRM & BI Engine — Deep Learning Notebook
 
-**Author:** Ahmed Abounaoum  
 **Supervisor:** Zineb H.  
 **Class:** 4DIAM G4  
 **Framework:** PyTorch 2.x — Google Colab (CPU/GPU compatible)
