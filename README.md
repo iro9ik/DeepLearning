@@ -1,6 +1,7 @@
 # Intelligent CRM & BI Engine — Deep Learning Notebook
 
 **Supervisor:** Zineb H. 
+
 **Framework:** PyTorch 2.x — Google Colab (CPU/GPU compatible)
 
 ---
